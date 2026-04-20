@@ -13,7 +13,7 @@ https://apkpure.com/es/smart-r2-d2/com.hasbro.HeroDroid
 * The APK was analyzed and modified using AI tools (Claude.ai):
 https://claude.ai/share/001ac626-e2dc-4413-8012-e13ce9ae489c
 * After several iterations, a working version was achieved.
-* 
+
 ## Current Status
 
 ✅ Successfully running on a Poco F1 (Android 12)
