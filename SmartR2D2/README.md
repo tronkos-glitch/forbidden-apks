@@ -16,8 +16,8 @@ https://claude.ai/share/001ac626-e2dc-4413-8012-e13ce9ae489c
 
 ## Current Status
 
-✅ Successfully running on a Poco F1 (Android 12)
-⚠️ Compatibility with other devices and Android versions is not fully tested
+* ✅ Successfully running on a Poco F1 (Android 12)
+* ⚠️ Compatibility with other devices and Android versions is not fully tested
 
 ## Goal
 
