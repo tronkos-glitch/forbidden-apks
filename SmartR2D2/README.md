@@ -16,12 +16,13 @@ https://claude.ai/share/001ac626-e2dc-4413-8012-e13ce9ae489c
 
 ## Current Status
 
-* ✅ Successfully running on a Poco F1 (Android 12)
+* ✅ Successfully running on a Poco F1 (Android 12) and Xiaomi Mi PAD 8 (Android 16)
 * ⚠️ Compatibility with other devices and Android versions is not fully tested
 
 ## Goal
 
 The goal of this repository is to preserve and restore functionality for this discontinued toy by providing working APKs.
+The Android 16 version has a .bat file to add (via adb) needed permissions for running fine.
 
 ## Feedback
 
