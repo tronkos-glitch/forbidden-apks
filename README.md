@@ -1,4 +1,4 @@
 # forbidden-apks
-My son has some toys from me. But the apps are out of update. Here I will try to re-new them, using IA
+My son has inherited some toys from me, but their apps are no longer updated. Here I’ll try to bring them back to life using AI.
 
-This repo will have that APKs if they work!
+This repository will contain the APKs, if they work.
